@@ -35,7 +35,8 @@
 		"author"	: "JerryWester"
 	}, {
 		"name"		: "Fierce Deity",
-		"author"	: "UltIMa647"
+		"author"	: "UltIMa647",
+		"deku_shield"	: 0
 	}, {
 		"name"		: "Glover",
 		"author"	: "Unesag"
