@@ -5,6 +5,7 @@
 	}, {
 		"name"		: "1996 Link",
 		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
@@ -29,7 +30,8 @@
 		"author"	: "Mikus64"
 	}, {
 		"name"		: "Diddy Kong",
-		"author"	: "Ikey Ilex"
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Elegy of Emptiness",
 		"author"	: "JerryWester"
@@ -37,6 +39,10 @@
 		"name"		: "Fierce Deity",
 		"author"	: "UltIMa647",
 		"deku_shield"	: 0
+	}, {
+		"name"		: "Gatomon",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Glover",
 		"author"	: "Unesag"
@@ -69,15 +75,21 @@
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Kristin",
-		"author"	: "Ikey Ilex"
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+	}, {
+		"name"		: "Kristina",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Lorna Rissa",
 		"author"	: "JanexLane",
 		"deku_shield"	: 0,
 		"hylian_shield" : 0
 	}, {
-		"name"		: "Kristina Olivine",
-		"author"	: "Ikey Ilex"
+		"name"		: "Machop",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Majora's Mask",
 		"author"	: "The3DDude"
@@ -143,6 +155,7 @@
 	}, {
 		"name"		: "1996 Link",
 		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
 		"mirror_shield" : 0
 	}, {
@@ -194,18 +207,27 @@
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Kristin",
-		"author"	: "Ikey Ilex"
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
-		"name"		: "Lorna Rissa",
-		"author"	: "JanexLane",
-		"hylian_shield" : 0,
-		"mirror_shield"	: 0
+		"name"		: "Kristina",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Link's Awakening",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
+	}, {
+		"name"		: "Lorna Rissa",
+		"author"	: "JanexLane",
+		"hylian_shield" : 0,
+		"mirror_shield"	: 0
+	}, {
+		"name"		: "Machoke",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Majora's Mask",
 		"author"	: "Skilarbabcock",
@@ -240,6 +262,10 @@
 	}, {
 		"name"		: "Princess Zelda ALttP",
 		"author"	: "Lopieloo"
+	}, {
+		"name"		: "Renamon",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Roll",
 		"author"	: "Psi-Hate"
