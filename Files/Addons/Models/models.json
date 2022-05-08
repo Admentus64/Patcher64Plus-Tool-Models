@@ -40,6 +40,10 @@
 		"author"	: "UltIMa647",
 		"deku_shield"	: 0
 	}, {
+		"name"		: "Fox Dinosaur Planet",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+	}, {
 		"name"		: "Gatomon",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
@@ -191,6 +195,10 @@
 	}, {
 		"name"		: "Fierce Deity",
 		"author"	: "CrookedPoe"
+	}, {
+		"name"		: "Fox Dinosaur Planet",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Happy Mask Salesman",
 		"author"	: "Anubis-V1"
