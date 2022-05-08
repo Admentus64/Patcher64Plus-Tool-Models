@@ -170,13 +170,16 @@
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Amara",
-		"author"	: "Amara & Karicyan"
+		"author"	: "Amara & Karicyan",
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Amara Ranch",
-		"author"	: "Amara & Karicyan"
+		"author"	: "Amara & Karicyan",
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Amara Valkyrie",
-		"author"	: "Amara & Karicyan"
+		"author"	: "Amara & Karicyan",
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Aria the Demon",
 		"author"	: "AriaHiro64"
