@@ -130,7 +130,8 @@
 	}, {
 		"name"		: "Ocarina of Time 3D",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"url"		: "https://www.youtube.com/user/skilarbabcock",
+		"warning"	: "First Person View Mode when using Slingshot has bugged colors"
 	}, {
 		"name"		: "Princess Ruto",
 		"author"	: "Unesag",
