@@ -130,7 +130,8 @@
 	}, {
 		"name"		: "Ocarina of Time 3D",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"url"		: "https://www.youtube.com/user/skilarbabcock",
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Princess Ruto",
 		"author"	: "Unesag",
