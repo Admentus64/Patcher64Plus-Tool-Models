@@ -41,6 +41,11 @@
 		"name"		: "Elegy of Emptiness",
 		"author"	: "JerryWester"
 	}, {
+		"name"		: "Felix",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"hylian_shield"	: 0
+	}, {
 		"name"		: "Fierce Deity",
 		"author"	: "UltIMa647",
 		"deku_shield"	: 0
@@ -68,11 +73,6 @@
 		"name"		: "Hatsune Miku Vocaloid",
 		"author"	: "JanexLane",
 		"deku_shield"	: 0
-	}, {
-		"name"		: "Felix",
-		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
-		"hylian_shield"	: 0
 	}, {
 		"name"		: "Improved Link",
 		"author"	: "Skilarbabcock",
@@ -178,13 +178,11 @@
 	}, {
 		"name"		: "Amara",
 		"author"	: "Amara & Karicyan",
-		"hylian_shield"	: 0,
-		"mirror_shield"	: 0
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Amara Ranch",
 		"author"	: "Amara & Karicyan",
-		"hylian_shield"	: 0,
-		"mirror_shield"	: 0
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Amara Valkyrie",
 		"author"	: "Amara & Karicyan",
@@ -192,8 +190,7 @@
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Aria the Demon",
-		"author"	: "AriaHiro64",
-		"mirror_shield"	: 0
+		"author"	: "AriaHiro64"
 	}, {
 		"name"		: "Breath of the Wild",
 		"author"	: "Skilarbabcock",
@@ -201,38 +198,33 @@
 	}, {
 		"name"		: "Dark Link",
 		"author"	: "CrookedPoe",
-		"hylian_shield"	: 0,
-		"mirror_shield"	: 0
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Dark Link Smash",
 		"author"	: "Mikus64",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
+		"name"		: "Felix",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"hylian_shield"	: 0
+	}, {
 		"name"		: "Fierce Deity",
-		"author"	: "CrookedPoe",
-		"mirror_shield"	: 0
+		"author"	: "CrookedPoe"
 	}, {
 		"name"		: "Fox Dinosaur Planet",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
-		"mirror_shield"	: 0
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Happy Mask Salesman",
-		"author"	: "Anubis-V1",
-		"mirror_shield"	: 0
+		"author"	: "Anubis-V1"
 	}, {
 		"name"		: "Hatsune Miku Link",
 		"author"	: "JanexLane"
 	}, {
 		"name"		: "Hatsune Miku Vocaloid",
 		"author"	: "JanexLane",
-		"hylian_shield"	: 0,
-		"mirror_shield"	: 0
-	}, {
-		"name"		: "Felix",
-		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
@@ -244,13 +236,11 @@
 	}, {
 		"name"		: "Kristin",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
-		"mirror_shield"	: 0
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Kristina",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
-		"mirror_shield"	: 0
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Link's Awakening",
 		"author"	: "Skilarbabcock",
@@ -265,8 +255,7 @@
 	}, {
 		"name"		: "Machoke",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
-		"mirror_shield"	: 0
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Majora's Mask",
 		"author"	: "Skilarbabcock",
@@ -274,16 +263,14 @@
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Malon 3D",
-		"author"	: "Karicyan",
-		"mirror_shield"	: 0
+		"author"	: "Karicyan"
 	}, {
 		"name"		: "Malon Red",
 		"author"	: "Lunae & Karicyan",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Malon Thicc",
-		"author"	: "Karicyan",
-		"mirror_shield"	: 0
+		"author"	: "Karicyan"
 	}, {
 		"name"		: "Mega Man",
 		"author"	: "Psi-Hate",
@@ -292,8 +279,7 @@
 	}, {
 		"name"		: "Nabooru",
 		"author"	: "Hailey",
-		"hylian_shield"	: 0,
-		"mirror_shield"	: 0
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Ocarina of Time 3D",
 		"author"	: "Skilarbabcock",
@@ -306,8 +292,7 @@
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Princess Zelda 3D",
-		"author"	: "Hailey",
-		"mirror_shield"	: 0
+		"author"	: "Hailey"
 	}, {
 		"name"		: "Princess Zelda ALttP",
 		"author"	: "Lopieloo",
@@ -316,12 +301,10 @@
 	}, {
 		"name"		: "Renamon",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
-		"mirror_shield" : 0
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Roll",
-		"author"	: "Psi-Hate",
-		"mirror_shield" : 0
+		"author"	: "Psi-Hate"
 	}, {
 		"name"		: "Ruby Rose",
 		"author"	: "Malon Rose",
@@ -336,8 +319,7 @@
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Sashed",
-		"author"	: "AriaHiro64",
-		"mirror_shield" : 0
+		"author"	: "AriaHiro64"
 	}, {
 		"name"		: "Skyward Sword",
 		"author"	: "Skilarbabcock",
@@ -355,7 +337,6 @@
 	}, {
 		"name"		: "Zora Link",
 		"author"	: "spyfoxgames",
-		"hylian_shield"	: 0,
-		"mirror_shield" : 0
+		"hylian_shield"	: 0
 	} ]
 } ]
