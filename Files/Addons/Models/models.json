@@ -178,25 +178,31 @@
 	}, {
 		"name"		: "Amara",
 		"author"	: "Amara & Karicyan",
-		"hylian_shield"	: 0
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Amara Ranch",
 		"author"	: "Amara & Karicyan",
-		"hylian_shield"	: 0
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Amara Valkyrie",
 		"author"	: "Amara & Karicyan",
-		"hylian_shield"	: 0
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Aria the Demon",
-		"author"	: "AriaHiro64"
+		"author"	: "AriaHiro64",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Breath of the Wild",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Dark Link",
-		"author"	: "CrookedPoe"
+		"author"	: "CrookedPoe",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Dark Link Smash",
 		"author"	: "Mikus64",
@@ -204,14 +210,17 @@
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Fierce Deity",
-		"author"	: "CrookedPoe"
+		"author"	: "CrookedPoe",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Fox Dinosaur Planet",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Happy Mask Salesman",
-		"author"	: "Anubis-V1"
+		"author"	: "Anubis-V1",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Hatsune Miku Link",
 		"author"	: "JanexLane"
@@ -224,7 +233,8 @@
 		"name"		: "Felix",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
-		"hylian_shield"	: 0
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Kafei",
 		"author"	: "Malon Rose",
@@ -234,11 +244,13 @@
 	}, {
 		"name"		: "Kristin",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Kristina",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Link's Awakening",
 		"author"	: "Skilarbabcock",
@@ -253,7 +265,8 @@
 	}, {
 		"name"		: "Machoke",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Majora's Mask",
 		"author"	: "Skilarbabcock",
@@ -261,21 +274,26 @@
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Malon 3D",
-		"author"	: "Karicyan"
+		"author"	: "Karicyan",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Malon Red",
 		"author"	: "Lunae & Karicyan",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Malon Thicc",
-		"author"	: "Karicyan"
+		"author"	: "Karicyan",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Mega Man",
-		"author"	: "Psi-Hate"
+		"author"	: "Psi-Hate",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Nabooru",
 		"author"	: "Hailey",
-		"hylian_shield"	: 0
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Ocarina of Time 3D",
 		"author"	: "Skilarbabcock",
@@ -288,17 +306,22 @@
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Princess Zelda 3D",
-		"author"	: "Hailey"
+		"author"	: "Hailey",
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Princess Zelda ALttP",
-		"author"	: "Lopieloo"
+		"author"	: "Lopieloo",
+		"hylian_shield"	: 0,
+		"mirror_shield" : 0
 	}, {
 		"name"		: "Renamon",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"mirror_shield" : 0
 	}, {
 		"name"		: "Roll",
-		"author"	: "Psi-Hate"
+		"author"	: "Psi-Hate",
+		"mirror_shield" : 0
 	}, {
 		"name"		: "Ruby Rose",
 		"author"	: "Malon Rose",
@@ -313,11 +336,13 @@
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Sashed",
-		"author"	: "AriaHiro64"
+		"author"	: "AriaHiro64",
+		"mirror_shield" : 0
 	}, {
 		"name"		: "Skyward Sword",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"url"		: "https://www.youtube.com/user/skilarbabcock",
+		"mirror_shield" : 0
 	}, {
 		"name"		: "Sunny",
 		"author"	: "Unesag & Amara",
@@ -330,6 +355,7 @@
 	}, {
 		"name"		: "Zora Link",
 		"author"	: "spyfoxgames",
-		"hylian_shield"	: 0
+		"hylian_shield"	: 0,
+		"mirror_shield" : 0
 	} ]
 } ]
