@@ -71,7 +71,8 @@
 	}, {
 		"name"		: "Felix",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Improved Link",
 		"author"	: "Skilarbabcock",
@@ -226,7 +227,8 @@
 	}, {
 		"name"		: "Felix",
 		"author"	: "Ikey Ilex",
-		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"hylian_shield"	: 0
 	}, {
 		"name"		: "Kafei",
 		"author"	: "Malon Rose",
