@@ -289,6 +289,16 @@
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
+		"name"		: "MoT Revisited",
+		"author"	: "Syeo",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
+	}, {
+		"name"		: "Mr. April Fools",
+		"author"	: "Maple",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
+	}, {
 		"name"		: "Nabooru",
 		"author"	: "Hailey",
 		"hylian_shield"	: 0
@@ -298,7 +308,7 @@
 		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
-		}, {
+	}, {
 		"name"		: "Princess Ruto",
 		"author"	: "Unesag",
 		"mirror_shield"	: 0
