@@ -23,9 +23,6 @@
 		"author"	: "Amara & Karicyan",
 		"deku_shield"	: 0
 	}, {
-		"name"		: "Aria the Demon",
-		"author"	: "AriaHiro64"
-	}, {
 		"name"		: "Athena",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
@@ -120,9 +117,6 @@
 		"name"		: "Majora's Mask Eyes",
 		"author"	: "GhostlyDark (eyes)"
 	}, {
-		"name"		: "Majora's Mask Eyes + Sashed",
-		"author"	: "AriaHiro64 (model) & GhostlyDark (eyes)"
-	}, {
 		"name"		: "Malon 3D",
 		"author"	: "Karicyan"
 	}, {
@@ -158,9 +152,6 @@
 		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
 		"deku_shield"	: 0
 	}, {
-		"name"		: "Sashed",
-		"author"	: "AriaHiro64"
-	}, {
 		"name"		: "Twilight Princess",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
@@ -194,9 +185,6 @@
 		"author"	: "Amara & Karicyan",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
-	}, {
-		"name"		: "Aria the Demon",
-		"author"	: "AriaHiro64"
 	}, {
 		"name"		: "Athena",
 		"author"	: "Ikey Ilex",
@@ -339,9 +327,6 @@
 		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
-	}, {
-		"name"		: "Sashed",
-		"author"	: "AriaHiro64"
 	}, {
 		"name"		: "Skyward Sword",
 		"author"	: "Skilarbabcock",
