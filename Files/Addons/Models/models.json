@@ -150,6 +150,10 @@
 		"name"		: "Princess Zelda ALttP",
 		"author"	: "Unesag"
 	}, {
+		"name"		: "Renamon",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+	}, {
 		"name"		: "Roll",
 		"author"	: "Psi-Hate"
 	}, {
@@ -164,6 +168,12 @@
 		"name"		: "Twilight Princess",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
+	}, {
+		"name"		: "Violet",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"deku_shield"	: 0,
+		"hylian_shield"	: 0
 	} ],
 	
 	"adult" : [ {
@@ -356,6 +366,12 @@
 		"name"		: "Twilight Princess",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
+	}, {
+		"name"		: "Violet",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"hylian_shield"	: 0,
+		"mirror_shield" : 0
 	}, {
 		"name"		: "Zora Link",
 		"author"	: "spyfoxgames",
