@@ -102,6 +102,12 @@
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
+		"name"		: "Kyle",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"deku_shield"	: 0,
+		"hylian_shield"	: 0
+	}, {
 		"name"		: "Lorna Rissa",
 		"author"	: "JanexLane",
 		"deku_shield"	: 0,
@@ -263,6 +269,12 @@
 		"name"		: "Kristina",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+	}, {
+		"name"		: "Kyle",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Link's Awakening",
 		"author"	: "Skilarbabcock",
