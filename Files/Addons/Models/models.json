@@ -1,187 +1,234 @@
 [ {
 	"child" : [ {
 		"name"		: "Original",
+		"filter"	: "Link",
 		"author"	: 0
 	}, {
 		"name"		: "1996 Link",
+		"filter"	: "Link",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "A Link to the Past",
+		"filter"	: "Link",
 		"author"	: "Oni 3D-Arts",
 		"url"		: "https://github.com/hylian-modding/Z64-CustomPlayerModels/blob/master/LICENSE",
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Adult Link (MM)",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Amara Valkyrie",
+		"filter"	: "Female",
 		"author"	: "Amara & Karicyan",
 		"deku_shield"	: 0
 	}, {
 		"name"		: "Aria the Demon",
+		"filter"	: "Female",
 		"author"	: "AriaHiro64"
 	}, {
 		"name"		: "Athena",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Dark Link Smash",
+		"filter"	: "Link",
 		"author"	: "Mikus64"
 	}, {
 		"name"		: "Dawn & Dusk",
+		"filter"	: "Link",
 		"author"	: "LuigiBlood",
 		"hylian_shield"	: 0,
 		"info"		: "- Visible Hammer{0}- Hylian Shield can be used like Hero's Shield in MM"
 	}, {
 		"name"		: "Diddy Kong",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Elegy of Emptiness",
+		"filter"	: "Link",
 		"author"	: "JerryWester"
 	}, {
 		"name"		: "Felix",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Fierce Deity",
+		"filter"	: "Link",
 		"author"	: "UltIMa647",
 		"deku_shield"	: 0
 	}, {
 		"name"		: "Fox Dinosaur Planet",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Gatomon",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Glover",
+		"filter"	: "Non-Human",
 		"author"	: "Unesag"
 	}, {
 		"name"		: "Happy Mask Salesman",
+		"filter"	: "Male",
 		"author"	: "Anubis-V1"
 	}, {
 		"name"		: "Hat Kid",
+		"filter"	: "Female",
 		"author"	: "Hailey"
 	}, {
 		"name"		: "Hatsune Miku Link",
+		"filter"	: "Link",
 		"author"	: "JanexLane"
 	}, {
 		"name"		: "Hatsune Miku Vocaloid",
+		"filter"	: "Female",
 		"author"	: "JanexLane",
 		"deku_shield"	: 0
 	}, {
 		"name"		: "Improved Link",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Improved Link + OoT Eyes",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock (model) & GhostlyDark (eyes)",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Kafei",
+		"filter"	: "Male",
 		"author"	: "Malon Rose",
 		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Kristin",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Kristin V2",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Kristina",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Kyle",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Lorna Rissa",
+		"filter"	: "Female",
 		"author"	: "JanexLane",
 		"deku_shield"	: 0,
 		"hylian_shield" : 0
 	}, {
 		"name"		: "Machop",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Majora's Mask",
+		"filter"	: "Link",
 		"author"	: "The3DDude"
 	}, {
 		"name"		: "Majora's Mask + OoT Eyes",
+		"filter"	: "Link",
 		"author"	: "The3DDude (model) & GhostlyDark (eyes)"
 	}, {
 		"name"		: "Majora's Mask Eyes",
+		"filter"	: "Link",
 		"author"	: "GhostlyDark (eyes)"
 	}, {
 		"name"		: "Majora's Mask Eyes + Sashed",
+		"filter"	: "Link",
 		"author"	: "AriaHiro64 (model) & GhostlyDark (eyes)"
 	}, {
 		"name"		: "Malon 3D",
+		"filter"	: "Female",
 		"author"	: "Karicyan"
 	}, {
 		"name"		: "Mega Man",
+		"filter"	: "Male",
 		"author"	: "Psi-Hate"
 	}, {
 		"name"		: "Ocarina of Time",
+		"filter"	: "Link",
 		"author"	: "Rando"
 	}, {
 		"name"		: "Ocarina of Time + MM Eyes",
+		"filter"	: "Link",
 		"author"	: "Rando (model) & GhostlyDark (eyes)"
 	}, {
 		"name"		: "Ocarina of Time 3D",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Princess Ruto",
+		"filter"	: "Female",
 		"author"	: "Unesag",
 		"deku_shield"	: 0
 	}, {
 		"name"		: "Princess Zelda 3D",
+		"filter"	: "Female",
 		"author"	: "Hailey"
 	}, {
 		"name"		: "Princess Zelda ALttP",
+		"filter"	: "Female",
 		"author"	: "Unesag"
 	}, {
 		"name"		: "Renamon",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Roll",
+		"filter"	: "Female",
 		"author"	: "Psi-Hate"
 	}, {
 		"name"		: "Saria",
+		"filter"	: "Female",
 		"author"	: "Malon Rose",
 		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
 		"deku_shield"	: 0
 	}, {
 		"name"		: "Sashed",
+		"filter"	: "Link",
 		"author"	: "AriaHiro64"
 	}, {
 		"name"		: "Twilight Princess",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Violet",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"deku_shield"	: 0,
@@ -190,214 +237,261 @@
 	
 	"adult" : [ {
 		"name"		: "Original",
+		"filter"	: "Link",
 		"author"	: 0
 	}, {
 		"name"		: "1996 Link",
+		"filter"	: "Link",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
 		"mirror_shield" : 0
 	}, {
 		"name"		: "A Link to the Past",
+		"filter"	: "Link",
 		"author"	: "Oni 3D-Arts",
 		"url"		: "https://github.com/hylian-modding/Z64-CustomPlayerModels/blob/master/LICENSE",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Amara",
+		"filter"	: "Female",
 		"author"	: "Amara & Karicyan",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Amara Ranch",
+		"filter"	: "Female",
 		"author"	: "Amara & Karicyan",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Amara Valkyrie",
+		"filter"	: "Female",
 		"author"	: "Amara & Karicyan",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Aria the Demon",
+		"filter"	: "Female",
 		"author"	: "AriaHiro64"
 	}, {
 		"name"		: "Athena",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Breath of the Wild",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Dark Link",
+		"filter"	: "Link",
 		"author"	: "CrookedPoe",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Dark Link Smash",
+		"filter"	: "Link",
 		"author"	: "Mikus64",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Felix",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Fierce Deity",
+		"filter"	: "Link",
 		"author"	: "CrookedPoe"
 	}, {
 		"name"		: "Fox Dinosaur Planet",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Happy Mask Salesman",
+		"filter"	: "Male",
 		"author"	: "Anubis-V1"
 	}, {
 		"name"		: "Hatsune Miku Link",
+		"filter"	: "Link",
 		"author"	: "JanexLane"
 	}, {
 		"name"		: "Hatsune Miku Vocaloid",
+		"filter"	: "Female",
 		"author"	: "JanexLane",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Kafei",
+		"filter"	: "Male",
 		"author"	: "Malon Rose",
 		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Kristin",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Kristin V2",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Kristina",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Kyle",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Link's Awakening",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Lorna Rissa",
+		"filter"	: "Female",
 		"author"	: "JanexLane",
 		"hylian_shield" : 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Machoke",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Majora's Mask",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Malon 3D",
+		"filter"	: "Female",
 		"author"	: "Karicyan"
 	}, {
 		"name"		: "Malon Red",
+		"filter"	: "Female",
 		"author"	: "Lunae & Karicyan",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Malon Thicc",
+		"filter"	: "Female",
 		"author"	: "Karicyan"
 	}, {
 		"name"		: "Mega Man",
+		"filter"	: "Male",
 		"author"	: "Psi-Hate",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "MoT Revisited",
+		"filter"	: "Link",
 		"author"	: "Syeo",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Mr. April Fools",
+		"filter"	: "Male",
 		"author"	: "Maple",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Nabooru",
+		"filter"	: "Female",
 		"author"	: "Hailey",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Ocarina of Time 3D",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Princess Ruto",
+		"filter"	: "Female",
 		"author"	: "Unesag",
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Princess Zelda 3D",
+		"filter"	: "Female",
 		"author"	: "Hailey"
 	}, {
 		"name"		: "Princess Zelda ALttP",
+		"filter"	: "Female",
 		"author"	: "Lopieloo",
 		"hylian_shield"	: 0,
 		"mirror_shield" : 0
 	}, {
 		"name"		: "Renamon",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Roll",
+		"filter"	: "Female",
 		"author"	: "Psi-Hate"
 	}, {
 		"name"		: "Ruby Rose",
+		"filter"	: "Female",
 		"author"	: "Malon Rose",
 		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Saria",
+		"filter"	: "Female",
 		"author"	: "Malon Rose",
 		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Sashed",
+		"filter"	: "Link",
 		"author"	: "AriaHiro64"
 	}, {
 		"name"		: "Skyward Sword",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"mirror_shield" : 0
 	}, {
 		"name"		: "Sunny",
+		"filter"	: "Male",
 		"author"	: "Unesag & Amara",
 		"hylian_shield"	: 0,
 		"mirror_shield" : 0
 	}, {
 		"name"		: "Twilight Princess",
+		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Violet",
+		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
 		"mirror_shield" : 0
 	}, {
 		"name"		: "Zora Link",
+		"filter"	: "Link",
 		"author"	: "spyfoxgames",
 		"hylian_shield"	: 0
 	} ]
