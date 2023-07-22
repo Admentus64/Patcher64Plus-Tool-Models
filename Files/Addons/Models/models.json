@@ -21,7 +21,8 @@
 		"name"		: "Adult Link (MM)",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"url"		: "https://www.youtube.com/user/skilarbabcock",
+		"info"		: "- Adult Link clips through Epona in the opening cutscene, and won't be fixed"
 	}, {
 		"name"		: "Amara Valkyrie",
 		"filter"	: "Female",
