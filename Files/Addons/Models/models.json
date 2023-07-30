@@ -234,6 +234,13 @@
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
+	}, {
+		"name"		: "Xavres",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"deku_shield"	: 0,
+		"hylian_shield"	: 0
 	} ],
 	
 	"adult" : [ {
@@ -495,5 +502,12 @@
 		"filter"	: "Link",
 		"author"	: "spyfoxgames",
 		"hylian_shield"	: 0
+	}, {
+		"name"		: "Xavres",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"hylian_shield"	: 0,
+		"mirror_shield" : 0
 	} ]
 } ]
