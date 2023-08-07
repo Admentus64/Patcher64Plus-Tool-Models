@@ -58,26 +58,26 @@ DICTIONARY
     DL_SLINGSHOT          0x01A3C8    "Slingshot"
     DL_OCARINA_FAIRY      0x01A6D0    "Ocarina.1"
     DL_OCARINA_TIME       0x01A958    "Ocarina.2"
-    DL_DEKU_STICK         0x01BF30  "DekuStick"
+    DL_DEKU_STICK         0x01BF30    "DekuStick"
 
     // Gear
-    DL_GORON_BRACELET     0x01C208  "GoronBracelet"
+    DL_GORON_BRACELET     0x01C208    "GoronBracelet"
 
     // Masks
-    DL_MASK_SKULL         0x01C878  "Mask.Skull"
-    DL_MASK_SPOOKY        0x01CC68  "Mask.Spooky"
-    DL_MASK_KEATON        0x01D108  "Mask.Keaton"
-    DL_MASK_TRUTH         0x01D538  "Mask.Truth"
-    DL_MASK_GORON         0x01D9F8  "Mask.Goron"
-    DL_MASK_ZORA          0x01DF48  "Mask.Zora"
-    DL_MASK_GERUDO        0x01E990  "Mask.Gerudo"
-    DL_MASK_BUNNY         0x01F290  "Mask.Bunny"
+    DL_MASK_SKULL         0x01C878    "Mask.Skull"
+    DL_MASK_SPOOKY        0x01CC68    "Mask.Spooky"
+    DL_MASK_KEATON        0x01D108    "Mask.Keaton"
+    DL_MASK_TRUTH         0x01D538    "Mask.Truth"
+    DL_MASK_GORON         0x01D9F8    "Mask.Goron"
+    DL_MASK_ZORA          0x01DF48    "Mask.Zora"
+    DL_MASK_GERUDO        0x01E990    "Mask.Gerudo"
+    DL_MASK_BUNNY         0x01F290    "Mask.Bunny"
 
     // First-Person
-    DL_FPS_RIGHT_ARM      0x01B998 "FPS.Forearm.R"
+    DL_FPS_RIGHT_ARM      0x01B998    "FPS.Forearm.R"
 
     // Misc
-    DL_SLINGSHOT_STRING   0x01C3C8 "Slingshot.String"
+    DL_SLINGSHOT_STRING   0x01C3C8    "Slingshot.String"
 END
 
 // Matrix function parameters:
