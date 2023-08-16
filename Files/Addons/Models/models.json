@@ -177,6 +177,16 @@
 		"filter"	: "Male",
 		"author"	: "Psi-Hate"
 	}, {
+		"name"		: "Megaton Hammer",
+		"filter"	: "Link",
+		"author"	: "jsa",
+		"info"		: "- Visible Hammer"
+	}, {
+		"name"		: "Megaton Hammer + MM Eyes",
+		"filter"	: "Link",
+		"author"	: "jsa (hammer) & GhostlyDark (eyes)",
+		"info"		: "- Visible Hammer"
+	}, {
 		"name"		: "Ocarina of Time",
 		"filter"	: "Link",
 		"author"	: "Rando"
