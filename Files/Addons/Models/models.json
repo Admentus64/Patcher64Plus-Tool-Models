@@ -59,10 +59,18 @@
 		"filter"	: "Link",
 		"author"	: "JerryWester"
 	}, {
+		"name"		: "Felicia",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"deku_shield"	: 0,
+		"hylian_shield"	: 0
+	}, {
 		"name"		: "Felix",
 		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Fierce Deity",
@@ -315,11 +323,19 @@
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
+		"name"		: "Felicia",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
+	}, {
 		"name"		: "Felix",
 		"filter"	: "Non-Human",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
-		"hylian_shield"	: 0
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"		: "Fierce Deity",
 		"filter"	: "Link",
@@ -374,6 +390,10 @@
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
+	}, {
+		"name"		: "Link Baldrics",
+		"filter"	: "Link",
+		"author"	: "Amara"
 	}, {
 		"name"		: "Link's Awakening",
 		"filter"	: "Link",

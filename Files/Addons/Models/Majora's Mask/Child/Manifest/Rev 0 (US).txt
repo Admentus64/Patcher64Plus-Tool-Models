@@ -1,68 +1,70 @@
 DICTIONARY
-    //
-    // For use with decompressed 1.0 MM only!
-    //
-    VROM_CODE             0x00B3C000           // start of code within rom
-    TABLE_OBJECT          0x11CC80             // start of object table within code
-    VROM_OBJ              O_0x11               // object to overwrite
+	//
+	// For use with decompressed 1.0 MM only!
+	//
+	VROM_CODE             0x00B3C000	// start of code within rom
+	TABLE_OBJECT          0x11CC80		// start of object table within code
+	VROM_OBJ              O_0x11		// object to overwrite
+	VROM_ARMS_HOOK        0xD3B220
 
-    HIERARCHY_CODE        0x11A350             // Relative to the start of code;
-                                               // Link's hierarchy pointer will
-                                               // be written at this address
+	HIERARCHY_CODE        0x11A350		// Relative to the start of code;
+ 						// Link's hierarchy pointer will
+         					// be written at this address
 
-    SEG                   0x06000000           // ram segment
+	SEG			0x06000000	// ram segment
 
-    OBJ_CHILD             0x0011               // object_link_child object number
+	OBJ_CHILD		0x0011		// object_link_child object number
 
-    // Hierarchy
-    DL_WAIST                    0x00BDB0        "Limb 1" // this is the name zzconvert automatically uses
-    DL_RTHIGH                   0x00B360        "Limb 3"
-    DL_RSHIN                    0x00B538        "Limb 4"
-    DL_RFOOT                    0x00B778        "Limb 5"
-    DL_LTHIGH                   0x00B888        "Limb 6"
-    DL_LSHIN                    0x00BA60        "Limb 7"
-    DL_LFOOT                    0x00BCA0        "Limb 8"
-    DL_HEAD                     0x00C3E8        "Limb 10"
-    DL_HAT                      0x00CAA8        "Limb 11"
-    DL_COLLAR                   0x00BF88        "Limb 12"
-    DL_LSHOULDER                0x00D1B0        "Limb 13"
-    DL_LFOREARM                 0x00E1C8        "Limb 14"
-    DL_RSHOULDER                0x00CCE0        "Limb 16"
-    DL_RFOREARM                 0x00CF08        "Limb 17"
-    DL_TORSO                    0x00C048        "Limb 20"
+	// Hierarchy
+	DL_WAIST		0x00BDB0	"Limb 1" // this is the name zzconvert automatically uses
+	DL_RTHIGH		0x00B360	"Limb 3"
+	DL_RSHIN		0x00B538	"Limb 4"
+	DL_RFOOT		0x00B778	"Limb 5"
+	DL_LTHIGH		0x00B888	"Limb 6"
+	DL_LSHIN		0x00BA60	"Limb 7"
+	DL_LFOOT		0x00BCA0	"Limb 8"
+	DL_HEAD			0x00C3E8	"Limb 10"
+	DL_HAT			0x00CAA8	"Limb 11"
+	DL_COLLAR		0x00BF88	"Limb 12"
+	DL_LSHOULDER		0x00D1B0	"Limb 13"
+	DL_LFOREARM		0x00E1C8	"Limb 14"
+	DL_RSHOULDER		0x00CCE0	"Limb 16"
+	DL_RFOREARM		0x00CF08	"Limb 17"
+	DL_TORSO		0x00C048	"Limb 20"
 
-    // Hands
-    DL_LHAND                    0x00F1D8        "Limb 15"
-    DL_LFIST                    0x00F548        "Fist.L"
-    DL_LHAND_BOTTLE             0x01DFA8        "Bottle.Hand.L"
-    DL_RHAND                    0x00F998        "Limb 18"
-    DL_RFIST                    0x00FD08        "Fist.R"
+	// Hands
+	DL_LHAND		0x00F1D8	"Limb 15"
+	DL_LFIST		0x00F548	"Fist.L"
+	DL_LHAND_BOTTLE		0x01DFA8	"Bottle.Hand.L"
+	DL_RHAND		0x00F998	"Limb 18"
+	DL_RFIST		0x00FD08	"Fist.R"
 
-    // Equipment
-    DL_SHIELD_MIRROR            0x016480        "Shield.2"
-    DL_BLADE_GFSWORD            0x016898        "Sword.4"
-    DL_SHEATH_GILDED            0x016B80        "Sheath.3"
-    DL_HILT_GILDED              0x017058        "Hilt.3"
-    DL_BLADE_GILDED             0x017310        "Blade.3"
-    DL_SHEATH_RAZOR             0x017338        "Sheath.2"
-    DL_SHIELD_HERO              0x017458        "Shield.1"
-    DL_SHEATH_KOKIRI            0x017700        "Sheath.1"
-    DL_HOOKSHOT                 0x017858        "Hookshot"
-    DL_BOW                      0x0181C8        "Bow"
-    DL_HOOKSHOT_SPIKE           0x01D960        "Hookshot.Spike"
-    DL_OCARINA_TIME             0x010448        "Ocarina.2"
+	// Equipment
+	DL_SHIELD_MIRROR_FACE	0x015F98	"Shield.2.Face"
+	DL_SHIELD_MIRROR	0x016480	"Shield.2"
+	DL_BLADE_GFSWORD	0x016898	"Sword.4"
+	DL_SHEATH_GILDED	0x016B80	"Sheath.3"
+	DL_HILT_GILDED		0x017058	"Hilt.3"
+	DL_BLADE_GILDED		0x017310	"Blade.3"
+	DL_SHEATH_RAZOR		0x017338	"Sheath.2"
+	DL_SHIELD_HERO		0x017458	"Shield.1"
+	DL_SHEATH_KOKIRI	0x017700	"Sheath.1"
+	DL_HOOKSHOT		0x017858	"Hookshot"
+	DL_BOW			0x0181C8	"Bow"
+	DL_HOOKSHOT_SPIKE	0x01D960	"Hookshot.Spike"
+	DL_OCARINA_TIME		0x010448	"Ocarina.2"
 
-    // First-Person
-    DL_FPS_RIGHT_ARM            0x017EC0        "FPS.Forearm.R"
+	// First-Person
+	DL_FPS_RIGHT_ARM	0x017EC0	"FPS.Forearm.R"
 
-    // Misc
-    DL_BOW_STRING               0x017818         "Bow.String"
+	// Misc
+	DL_BOW_STRING		0x017818	"Bow.String"
     
-    // External dependencies (gameplay_keep)
-    GK_HILT_KOKIRI              0x040021A8      // Kokiri Sword Handle
-    GK_HILT_RAZOR               0x04001D00      // Razor Sword Handle
-    GK_BLADE_KOKIRI             0x040028C0      // Kokiri Sword Blade
-    GK_BLADE_RAZOR              0x04002168      // Razor Sword Blade
+	// External dependencies (gameplay_keep)
+	GK_HILT_KOKIRI		0x040021A8	// Kokiri Sword Handle
+	GK_HILT_RAZOR		0x04001D00	// Razor Sword Handle
+	GK_BLADE_KOKIRI		0x040028C0	// Kokiri Sword Blade
+	GK_BLADE_RAZOR		0x04002168	// Razor Sword Blade
 END
 
 // Matrix function parameters:
