@@ -241,6 +241,11 @@
 		"filter"	: "Link",
 		"author"	: "AriaHiro64"
 	}, {
+		"name"		: "Sonic",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
+	}, {
 		"name"		: "Twilight Princess",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
@@ -509,6 +514,11 @@
 		"author"	: "Skilarbabcock",
 		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"mirror_shield" : 0
+	}, {
+		"name"		: "Sonic",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"url"		: "https://github.com/Caverns4/Custom-Game-Models"
 	}, {
 		"name"		: "Sunny",
 		"filter"	: "Male",
