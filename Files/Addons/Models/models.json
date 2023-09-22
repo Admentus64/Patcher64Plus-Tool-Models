@@ -31,7 +31,9 @@
 	}, {
 		"name"		: "Aria the Demon",
 		"filter"	: "Female",
-		"author"	: "AriaHiro64"
+		"author"	: "AriaHiro64",
+		"license"	: "GPL 2.0",
+		"url"		: "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
 	}, {
 		"name"		: "Athena",
 		"filter"	: "Non-Human",
@@ -122,7 +124,7 @@
 		"name"		: "Kafei",
 		"filter"	: "Male",
 		"author"	: "Malon Rose",
-		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
+		"url"		: [ "https://youtube.com/c/MalonRose", "https://www.patreon.com/MalonRose" ],
 		"deku_shield"	: 0,
 		"hylian_shield"	: 0
 	}, {
@@ -234,7 +236,7 @@
 		"name"		: "Saria",
 		"filter"	: "Female",
 		"author"	: "Malon Rose",
-		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
+		"url"		: [ "https://youtube.com/c/MalonRose", "https://www.patreon.com/MalonRose" ],
 		"deku_shield"	: 0
 	}, {
 		"name"		: "Sashed",
@@ -368,7 +370,7 @@
 		"name"		: "Kafei",
 		"filter"	: "Male",
 		"author"	: "Malon Rose",
-		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
+		"url"		: [ "https://youtube.com/c/MalonRose", "https://www.patreon.com/MalonRose" ],
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
@@ -494,14 +496,14 @@
 		"name"		: "Ruby Rose",
 		"filter"	: "Female",
 		"author"	: "Malon Rose",
-		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
+		"url"		: [ "https://youtube.com/c/MalonRose", "https://www.patreon.com/MalonRose" ],
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
 		"name"		: "Saria",
 		"filter"	: "Female",
 		"author"	: "Malon Rose",
-		"url"		: "https://youtube.com/c/MalonRose{0}https://www.patreon.com/MalonRose",
+		"url"		: [ "https://youtube.com/c/MalonRose", "https://www.patreon.com/MalonRose" ],
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
