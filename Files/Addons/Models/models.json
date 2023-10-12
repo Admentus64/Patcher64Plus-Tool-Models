@@ -254,7 +254,7 @@
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Violet",
-		"filter"	: "Non-Human",
+		"filter"	: "Female",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"deku_shield"	: 0,
@@ -534,7 +534,7 @@
 		"url"		: "https://www.youtube.com/user/skilarbabcock"
 	}, {
 		"name"		: "Violet",
-		"filter"	: "Non-Human",
+		"filter"	: "Female",
 		"author"	: "Ikey Ilex",
 		"url"		: "https://github.com/Caverns4/Custom-Game-Models",
 		"hylian_shield"	: 0,
