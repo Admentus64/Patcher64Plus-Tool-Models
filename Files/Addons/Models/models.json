@@ -21,7 +21,6 @@
 		"name"		: "Adult Link (MM)",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"info"		: "- Adult Link clips through Epona in the opening cutscene, and won't be fixed"
 	}, {
 		"name"		: "Amara Valkyrie",
@@ -119,13 +118,11 @@
 	}, {
 		"name"		: "Improved Link",
 		"filter"	: "Link",
-		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"author"	: "Skilarbabcock"
 	}, {
 		"name"		: "Improved Link + OoT Eyes",
 		"filter"	: "Link",
-		"author"	: "Skilarbabcock (model) & GhostlyDark (eyes)",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"author"	: "Skilarbabcock (model) & GhostlyDark (eyes)"
 	}, {
 		"name"		: "Kafei",
 		"filter"	: "Male",
@@ -214,7 +211,6 @@
 		"name"		: "Ocarina of Time 3D",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Princess Ruto",
@@ -256,8 +252,7 @@
 	}, {
 		"name"		: "Twilight Princess",
 		"filter"	: "Link",
-		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"author"	: "Skilarbabcock"
 	}, {
 		"name"		: "Violet",
 		"filter"	: "Female",
@@ -322,8 +317,7 @@
 	}, {
 		"name"		: "Breath of the Wild",
 		"filter"	: "Link",
-		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"author"	: "Skilarbabcock"
 	}, {
 		"name"		: "Dark Link",
 		"filter"	: "Link",
@@ -411,7 +405,6 @@
 		"name"		: "Link's Awakening",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
@@ -429,7 +422,6 @@
 		"name"		: "Majora's Mask",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
 		"name"		: "Malon 3D",
@@ -471,7 +463,6 @@
 		"name"		: "Ocarina of Time 3D",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
@@ -520,7 +511,6 @@
 		"name"		: "Skyward Sword",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock",
 		"mirror_shield" : 0
 	}, {
 		"name"		: "Sonic",
@@ -536,8 +526,7 @@
 	}, {
 		"name"		: "Twilight Princess",
 		"filter"	: "Link",
-		"author"	: "Skilarbabcock",
-		"url"		: "https://www.youtube.com/user/skilarbabcock"
+		"author"	: "Skilarbabcock"
 	}, {
 		"name"		: "Violet",
 		"filter"	: "Female",
